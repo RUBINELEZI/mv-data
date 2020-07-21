@@ -1,6 +1,15 @@
 {
 	"serviceTitle": "Sherbimet",
 	"1sherbim": [
-		"\n                        "
+		{
+			"sherbim_bio": [
+				"\n                        ",
+				"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+			],
+			"sherbim_name": [
+				"Fizioterapi",
+				"Fizioterapi"
+			]
+		}
 	]
 }
