@@ -1,7 +1,22 @@
 {
 	"docTitle": "Doctors",
-	"docHead": "Meet Our Doctors ",
+	"docHead": "all can change",
 	"avatar": "https://cdn.jsdelivr.net/gh/RUBINELEZI/mv-data@62810ba8a2cd155e7f8aa580acbfb69e2ae8f924/images/7.png",
 	"docName": "doctor-details.html",
-	"docJob": "prova"
+	"docJob": "prova",
+	"doc": [
+		{
+			"avatar": "https://cdn.jsdelivr.net/gh/RUBINELEZI/mv-data@3ed69f54d1c403a3c9d181f3e1fd97e8d41b8bf9/images/9.png",
+			"docJob": "Add doc job"
+		},
+		{
+			"avatar": "https://cdn.jsdelivr.net/gh/RUBINELEZI/mv-data@cc8b0be726dc8b393edd957a1d03eaeaee6b029b/images/7.png",
+			"docName": "doctor-details.html",
+			"docJob": "doc"
+		},
+		{
+			"avatar": "https://cdn.jsdelivr.net/gh/RUBINELEZI/mv-data@735f42945fb6cea7d2d5b52e44356b4ce1aec3f7/images/8.png",
+			"docJob": "doc 2"
+		}
+	]
 }
