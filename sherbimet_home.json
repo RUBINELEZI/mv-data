@@ -17,7 +17,11 @@
 			"sherbim_bio": "dsadsadsadsadsafsafdsafds\nf\ndsf\nds\nfds\nf\ndsf\ndsf\nds\nfds\nf\ndsf\nds\nfds\nf\ndsf\ndsf\n\na",
 			"img_sherbim": "https://cdn.jsdelivr.net/gh/RUBINELEZI/mv-data@626bfc41e1b3a89e6a550ada0b992ffa25cb8893/images/about.png"
 		},
-		{},
+		{
+			"img_sherbim": "https://cdn.jsdelivr.net/gh/RUBINELEZI/mv-data@1dcb30fa43560cdc8ad36ed9d82b860bd63609ea/images/physiotherapy.png",
+			"sherbim_name": "Menaxhim i dhimbjes",
+			"sherbim_bio": "Lorem ipsum dolor sit amet, consectetur "
+		},
 		{
 			"sherbim_name": [
 				"Fizioterapi",
