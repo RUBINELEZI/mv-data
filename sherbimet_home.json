@@ -2,18 +2,18 @@
 	"serviceTitle": "Phone",
 	"1sherbim": [
 		{
-			"sherbim_name": "sadasd",
-			"sherbim_bio": "sadsadasdsadsadas"
-		},
-		{
 			"sherbim_name": [
 				"Sherbim njerzor",
 				"Prova"
 			],
 			"sherbim_bio": [
-				"Lorem ipsum dolor sit amet, consectet",
+				"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
 				"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
 			]
+		},
+		{
+			"sherbim_name": "dasdasd",
+			"sherbim_bio": "dsadsadsadsadsafsafdsafds\nf\ndsf\nds\nfds\nf\ndsf\ndsf\nds\nfds\nf\ndsf\nds\nfds\nf\ndsf\ndsf\n\na"
 		},
 		{
 			"sherbim_name": [
